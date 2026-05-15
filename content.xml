@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260515180915VG0OHO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260515180915AGNJ68</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA. Planta tu canción</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Requena Toulouse</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>SdA que plantea la elaboración de una canción electrónica utilizando como excusa los contenidos relativos al proceso de fotosíntesis de las plantas. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778861348992</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp7449bo-gbaoctspt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449bo-gbaoctspt</odePageId>
+      <odeBlockId>block-1778143917454-tqh1mizzj</odeBlockId>
+      <blockName>&quot;Planta tu canción&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449bo-gbaoctspt</odePageId>
+          <odeBlockId>block-1778143917454-tqh1mizzj</odeBlockId>
+          <odeIdeviceId>idevice-1778143917448-mftlq6e0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Título</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">“Planta tu canción”</span></p>
+<p style="text-align: justify;"><strong>2. Centro de interés</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Nuestro centro de interés va a ser el proceso de fotosíntesis de las plantas, ya que los alumnos lo están trabajando este trimestre en la materia de Biología y Geología y lo vamos a conectar con la composición de música electrónica y la creación de un audiovisual. </span></p>
+<p style="text-align: justify;"><strong>3. Nivel</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">1º de ESO es el curso al que está dirigida esta tarea. El proceso de fotosíntesis de las plantas está incluido en la programación de Biología y Geología y consideramos que a través de la música electrónica los alumnos pueden llegar a conectar con el tema y trabajarlo de forma significativa. </span></p>
+<p style="text-align: justify;"><strong>4. Temporalización</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Destinaremos cuatro sesiones de una hora con el fin de que no se prolongue mucho en el tiempo y pueda coincidirles la evaluación de esta tarea de la asignatura de Música con la evaluación de esta situación de aprendizaje en la materia de Biología y Geología. </span></p>
+<p style="text-align: justify;"><strong>5. Materia/materias implicadas</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Esta tarea la llevaremos a cabo en las materias de Música y Biología y Geología. Pretendemos que nuestro alumnado asiente técnicas de estudio por medio de la música para que puedan reforzar el trabajo de otras materias y ser una herramienta útil para su futuro. </span></p>
+<p style="text-align: justify;"><strong>6. Idioma</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">Castellano.</span></p>
+<p style="text-align: justify;"><strong>7. Descripción</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">El alumnado compondrá un tema de música electrónica y, una vez terminado, les pediremos que realicen un videoclip con imágenes de creación propia o libre de derechos que explique el proceso de fotosíntesis de las plantas. </span></p>
+<p style="text-align: justify;"><strong>8. Justificación de la elección</strong></p>
+<p style="text-align: justify;"><span style="font-weight: 400;">El objetivo era aprovechar el atractivo que tiene la composición de música electrónica para explicar un tema concreto: la fotosíntesis. De esta manera se trabajaba de manera interdisciplinar y aplicando la codocencia en el aula para obtener un producto final significativo conectado con los intereses del alumnado.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778143917448-mftlq6e0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Título</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">“Planta tu canción”</span></p>\n<p style=\"text-align: justify;\"><strong>2. Centro de interés</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Nuestro centro de interés va a ser el proceso de fotosíntesis de las plantas, ya que los alumnos lo están trabajando este trimestre en la materia de Biología y Geología y lo vamos a conectar con la composición de música electrónica y la creación de un audiovisual. </span></p>\n<p style=\"text-align: justify;\"><strong>3. Nivel</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">1º de ESO es el curso al que está dirigida esta tarea. El proceso de fotosíntesis de las plantas está incluido en la programación de Biología y Geología y consideramos que a través de la música electrónica los alumnos pueden llegar a conectar con el tema y trabajarlo de forma significativa. </span></p>\n<p style=\"text-align: justify;\"><strong>4. Temporalización</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Destinaremos cuatro sesiones de una hora con el fin de que no se prolongue mucho en el tiempo y pueda coincidirles la evaluación de esta tarea de la asignatura de Música con la evaluación de esta situación de aprendizaje en la materia de Biología y Geología. </span></p>\n<p style=\"text-align: justify;\"><strong>5. Materia/materias implicadas</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Esta tarea la llevaremos a cabo en las materias de Música y Biología y Geología. Pretendemos que nuestro alumnado asiente técnicas de estudio por medio de la música para que puedan reforzar el trabajo de otras materias y ser una herramienta útil para su futuro. </span></p>\n<p style=\"text-align: justify;\"><strong>6. Idioma</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Castellano.</span></p>\n<p style=\"text-align: justify;\"><strong>7. Descripción</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">El alumnado compondrá un tema de música electrónica y, una vez terminado, les pediremos que realicen un videoclip con imágenes de creación propia o libre de derechos que explique el proceso de fotosíntesis de las plantas. </span></p>\n<p style=\"text-align: justify;\"><strong>8. Justificación de la elección</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">El objetivo era aprovechar el atractivo que tiene la composición de música electrónica para explicar un tema concreto: la fotosíntesis. De esta manera se trabajaba de manera interdisciplinar y aplicando la codocencia en el aula para obtener un producto final significativo conectado con los intereses del alumnado.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449bs-y5rkb201t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Protección de datos y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Protección de datos y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449bs-y5rkb201t</odePageId>
+      <odeBlockId>block-1778144337237-vuxteealm</odeBlockId>
+      <blockName>Protección en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449bs-y5rkb201t</odePageId>
+          <odeBlockId>block-1778144337237-vuxteealm</odeBlockId>
+          <odeIdeviceId>idevice-1778144337231-fz2k66670</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os comparto una infografía de elaboración propia para que tengáis claro lo que tenéis que hacer a la hora de navegar por Internet y registrarse en las plataformas digitales. </p>
+<figure class="exe-figure position-center" style="width: 800px; text-align: center;"><img src="{{context_path}}/content/resources/Infografía tarea 2.3. .jpg" alt="" width="800" height="2000" />
+<figcaption class="figcaption"><span class="author">Marta Requena Toulouse</span>. <span class="title"><em>Infografía seguridad digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778144337231-fz2k66670","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os comparto una infografía de elaboración propia para que tengáis claro lo que tenéis que hacer a la hora de navegar por Internet y registrarse en las plataformas digitales. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Infografía tarea 2.3. .jpg\" alt=\"\" width=\"800\" height=\"2000\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Marta Requena Toulouse</span>. <span class=\"title\"><em>Infografía seguridad digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449bw-lmzatqps0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449bw-lmzatqps0</odePageId>
+      <odeBlockId>block-1778145306488-h4f2re78p</odeBlockId>
+      <blockName>Composición de tu propia canción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449bw-lmzatqps0</odePageId>
+          <odeBlockId>block-1778145306488-h4f2re78p</odeBlockId>
+          <odeIdeviceId>idevice-1778145306482-igguwnssh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como producto final, relacionado con la creación musical, vais a componer vuestra propia canción utilizando como letra el proceso de la fotosíntesis. Veremos a lo largo de esta Situación de Aprendizaje el proceso de la fotosíntesis, así como los conocimientos básicos para elaborar una canción por medio del programa Incredibox. </p>
+<figure class="exe-figure position-center" style="width: 693px; text-align: center;"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca3017c5-97a7-4d65-abda-fc515e120bb8/dejtkc1-548e5544-d459-4eff-bf0a-dd5a90f84d5e.png/v1/fill/w_693,h_350/incredible_polo_wheel__bits_by_nightmarefred2058_dejtkc1-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ3IiwicGF0aCI6Ii9mL2NhMzAxN2M1LTk3YTctNGQ2NS1hYmRhLWZjNTE1ZTEyMGJiOC9kZWp0a2MxLTU0OGU1NTQ0LWQ0NTktNGVmZi1iZjBhLWRkNWE5MGY4NGQ1ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lVTGgqvLbQ0kAjtyMA5mI8vY83FWdttzUVNgBvc8K_g" width="693" height="350" alt="" />
+<figcaption class="figcaption"><span class="author">DevianArt</span>. <span class="title"><em>Incredibox Art</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-ND</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778145306482-igguwnssh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como producto final, relacionado con la creación musical, vais a componer vuestra propia canción utilizando como letra el proceso de la fotosíntesis. Veremos a lo largo de esta Situación de Aprendizaje el proceso de la fotosíntesis, así como los conocimientos básicos para elaborar una canción por medio del programa Incredibox. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 693px; text-align: center;\"><img src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca3017c5-97a7-4d65-abda-fc515e120bb8/dejtkc1-548e5544-d459-4eff-bf0a-dd5a90f84d5e.png/v1/fill/w_693,h_350/incredible_polo_wheel__bits_by_nightmarefred2058_dejtkc1-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ3IiwicGF0aCI6Ii9mL2NhMzAxN2M1LTk3YTctNGQ2NS1hYmRhLWZjNTE1ZTEyMGJiOC9kZWp0a2MxLTU0OGU1NTQ0LWQ0NTktNGVmZi1iZjBhLWRkNWE5MGY4NGQ1ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.lVTGgqvLbQ0kAjtyMA5mI8vY83FWdttzUVNgBvc8K_g\" width=\"693\" height=\"350\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">DevianArt</span>. <span class=\"title\"><em>Incredibox Art</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-ND</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449by-g3lql83yy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Curación de contenido</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449by-g3lql83yy</odePageId>
+      <odeBlockId>block-1778146000520-xnj5og7tn</odeBlockId>
+      <blockName>Información para el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449by-g3lql83yy</odePageId>
+          <odeBlockId>block-1778146000520-xnj5og7tn</odeBlockId>
+          <odeIdeviceId>idevice-1778146000516-ncee8j7uj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os comparto un Padlet con las herramientas, tutoriales, vídeos y recursos que necesitaréis para llevar a cabo vuestro proyecto. </p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/bvnkkaazkusl4a84" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778146000516-ncee8j7uj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os comparto un Padlet con las herramientas, tutoriales, vídeos y recursos que necesitaréis para llevar a cabo vuestro proyecto. </p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/bvnkkaazkusl4a84\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7449by-g3lql83yy</odePageId>
+      <odeBlockId>block-1778146322448-p11byzfdi</odeBlockId>
+      <blockName>Herramientas para el profesorado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449by-g3lql83yy</odePageId>
+          <odeBlockId>block-1778146322448-p11byzfdi</odeBlockId>
+          <odeIdeviceId>idevice-1778146322444-2ryoxyjt0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comparto las herramientas, apps, tutoriales... que utilizo en el día a día en la gestión del aula. </p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAcZ56NAAA41-5ERrdg==" target="_blank" title="" rel="noopener">Enlace a Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778146322444-2ryoxyjt0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comparto las herramientas, apps, tutoriales... que utilizo en el día a día en la gestión del aula. </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAcZ56NAAA41-5ERrdg==\" target=\"_blank\" title=\"\" rel=\"noopener\">Enlace a Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c0-ey3q84cw7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades y tareas del proyecto</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades y tareas del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449c0-ey3q84cw7</odePageId>
+      <odeBlockId>block-1778146930502-m8xzah0lg</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c0-ey3q84cw7</odePageId>
+          <odeBlockId>block-1778146930502-m8xzah0lg</odeBlockId>
+          <odeIdeviceId>idevice-1778146930500-ckb5gtb7e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí tenéis un cromograma con las actividades que llevaremos a cabo en el aula. </p>
+<figure class="exe-figure position-center" style="width: 1536px; text-align: center;"><img src="{{context_path}}/content/resources/Tarea 7.1. Línea temporal organización_1.png" width="1536" height="864" alt="" />
+<figcaption class="figcaption"><span class="author">Marta Requena Toulouse</span>. <span class="title"><em>Línea temporal proyecto "Planta tu canción"</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778146930500-ckb5gtb7e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí tenéis un cromograma con las actividades que llevaremos a cabo en el aula. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1536px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Tarea 7.1. Línea temporal organización_1.png\" width=\"1536\" height=\"864\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Marta Requena Toulouse</span>. <span class=\"title\"><em>Línea temporal proyecto \"Planta tu canción\"</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c2-1ecj5ql4f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c2-oxk502x5x</odePageId>
+  <odeParentPageId>page-mp7449c2-1ecj5ql4f</odeParentPageId>
+  <pageName>6.1. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.1. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449c2-oxk502x5x</odePageId>
+      <odeBlockId>block-1778147503330-x90mj4itv</odeBlockId>
+      <blockName>Relación tareas-criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c2-oxk502x5x</odePageId>
+          <odeBlockId>block-1778147503330-x90mj4itv</odeBlockId>
+          <odeIdeviceId>idevice-1778147503324-g1cdq7qql</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 50.0481%; text-align: center; background-color: #c2e0f4; border: 1px solid #3598db;"><strong>Tareas</strong></td>
+<td style="width: 50.0481%; text-align: center; background-color: #c2e0f4; border: 1px solid #3598db;"><strong>Criterios de evaluación</strong></td>
+</tr>
+<tr>
+<td style="width: 50.0481%; border: 1px solid #3598db;">1. Composición tema música electrónica</td>
+<td style="width: 50.0481%; border: 1px solid #3598db;">
+<p>2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas musicales y dancísticas básicas, por medio de improvisaciones pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas.</p>
+<p>2.2. Expresar ideas, sentimientos y emociones en actividades pautadas de improvisación, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.</p>
+<p>4.1. Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</p>
+<p>4.2. Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50.0481%; border: 1px solid #3598db;">2. Edición del audio</td>
+<td style="width: 50.0481%; border: 1px solid #3598db;">
+<p>2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas musicales y dancísticas básicas, por medio de improvisaciones pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas. </p>
+<p>Crear y expresar ideas musicales a través de la edición de audio, utilizando tecnologías digitales.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50.0481%; border: 1px solid #3598db;">3. Selección / creación de imágenes libres de derechos que expliquen el proceso de fotosíntesis de las plantas</td>
+<td style="width: 50.0481%; border: 1px solid #3598db;">
+<p>1.1. Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</p>
+<p>2.1. Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50.0481%; border: 1px solid #3598db;">4. <span style="font-weight: 400;">Montaje audiovisual con las imágenes seleccionadas y el tema musical creado </span></td>
+<td style="width: 50.0481%; border: 1px solid #3598db;">
+<p>2.2. Expresar ideas, sentimientos y emociones en actividades pautadas de improvisación, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos. </p>
+<p>4.2. Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales  colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778147503324-g1cdq7qql","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 50.0481%; text-align: center; background-color: #c2e0f4; border: 1px solid #3598db;\"><strong>Tareas</strong></td>\n<td style=\"width: 50.0481%; text-align: center; background-color: #c2e0f4; border: 1px solid #3598db;\"><strong>Criterios de evaluación</strong></td>\n</tr>\n<tr>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">1. Composición tema música electrónica</td>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">\n<p>2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas musicales y dancísticas básicas, por medio de improvisaciones pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas.</p>\n<p>2.2. Expresar ideas, sentimientos y emociones en actividades pautadas de improvisación, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.</p>\n<p>4.1. Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</p>\n<p>4.2. Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">2. Edición del audio</td>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">\n<p>2.1. Participar, con iniciativa, confianza y creatividad, en la exploración de técnicas musicales y dancísticas básicas, por medio de improvisaciones pautadas, individuales o grupales, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas. </p>\n<p>Crear y expresar ideas musicales a través de la edición de audio, utilizando tecnologías digitales.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">3. Selección / creación de imágenes libres de derechos que expliquen el proceso de fotosíntesis de las plantas</td>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">\n<p>1.1. Analizar conceptos y procesos biológicos y geológicos interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica y obteniendo conclusiones fundamentadas.</p>\n<p>2.1. Resolver cuestiones sobre Biología y Geología localizando, seleccionando y organizando información de distintas fuentes y citándolas correctamente.</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">4. <span style=\"font-weight: 400;\">Montaje audiovisual con las imágenes seleccionadas y el tema musical creado </span></td>\n<td style=\"width: 50.0481%; border: 1px solid #3598db;\">\n<p>2.2. Expresar ideas, sentimientos y emociones en actividades pautadas de improvisación, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos. </p>\n<p>4.2. Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales  colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c3-72xa796fm</odePageId>
+  <odeParentPageId>page-mp7449c2-1ecj5ql4f</odeParentPageId>
+  <pageName>6.2. Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.2. Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449c3-72xa796fm</odePageId>
+      <odeBlockId>block-1778148196067-weca875zs</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c3-72xa796fm</odePageId>
+          <odeBlockId>block-1778148196067-weca875zs</odeBlockId>
+          <odeIdeviceId>idevice-1778148196061-stfwu73se</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de esta tarea se realizará de forma procesual, recogeremos datos durante las cuatro sesiones y también se hará una evaluación final con la recogida y valoración de datos al presentar la tarea.</p>
+<p>Como observación sistemática utilizaremos el registro anecdótico ya que me permitirá saber el aprovechamiento del tiempo de clase y si traen el material que les permitirá la elaboración del trabajo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148196061-stfwu73se","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de esta tarea se realizará de forma procesual, recogeremos datos durante las cuatro sesiones y también se hará una evaluación final con la recogida y valoración de datos al presentar la tarea.</p>\n<p>Como observación sistemática utilizaremos el registro anecdótico ya que me permitirá saber el aprovechamiento del tiempo de clase y si traen el material que les permitirá la elaboración del trabajo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7449c3-72xa796fm</odePageId>
+      <odeBlockId>block-1778148218059-lwa6yetkx</odeBlockId>
+      <blockName>Diana de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c3-72xa796fm</odePageId>
+          <odeBlockId>block-1778148218059-lwa6yetkx</odeBlockId>
+          <odeIdeviceId>idevice-1778148218058-8jyaibzlc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Con la diana de autoevaluación pretendo que los alumnos reflexionen sobre su trabajo en pareja, identifiquen fortalezas y áreas de mejora, desarrollen habilidades críticas y reflexivas y evalúen cómo ha sido el proceso de trabajo con su pareja. En algunas parejas entiendo que habrá puntuaciones bajas si el trabajo está desequilibrado, esto me permitirá aportar información al tutor para las entrevistas con las familias y también me permitirá diseñar nuevos equipos de trabajo.</p>
+<figure class="exe-figure position-center" style="width: 1432px; text-align: center;"><img src="{{context_path}}/content/resources/Tarea 8.1. Diana de autoevaluación.png" width="1432" height="806" alt="" />
+<figcaption class="figcaption"><span class="author">Marta Requena Toulouse</span>. <span class="title"><em>Diana de autoevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148218058-8jyaibzlc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Con la diana de autoevaluación pretendo que los alumnos reflexionen sobre su trabajo en pareja, identifiquen fortalezas y áreas de mejora, desarrollen habilidades críticas y reflexivas y evalúen cómo ha sido el proceso de trabajo con su pareja. En algunas parejas entiendo que habrá puntuaciones bajas si el trabajo está desequilibrado, esto me permitirá aportar información al tutor para las entrevistas con las familias y también me permitirá diseñar nuevos equipos de trabajo.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1432px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Tarea 8.1. Diana de autoevaluación.png\" width=\"1432\" height=\"806\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Marta Requena Toulouse</span>. <span class=\"title\"><em>Diana de autoevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp7449c3-72xa796fm</odePageId>
+      <odeBlockId>block-1778148383266-dlu9lwjnq</odeBlockId>
+      <blockName>Rúbrica de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c3-72xa796fm</odePageId>
+          <odeBlockId>block-1778148383266-dlu9lwjnq</odeBlockId>
+          <odeIdeviceId>idevice-1778148383263-rh1omkgox</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Con esta rúbrica de autoevaluación pretendo que los alumnos reflexionen críticamente sobre su trabajo en la creación de música electrónica y montaje audiovisual, promoviendo así un aprendizaje autónomo y una mejora continua en sus habilidades técnicas y creativas. Esta información me va a permitir conocer la percepción que tienen los propios alumnos de su grado de conocimiento y detectar las dificultades que han tenido en este proceso para poder resolver las dudas o reforzar este tipo de tareas en el diseño de actividades posteriores. Espero una evaluación positiva en la mayoría de los casos.</p>
+<figure class="exe-figure position-center" style="width: 1432px; text-align: center;"><img src="{{context_path}}/content/resources/Tarea 8.1. Rúbrica de evaluación.png" width="1432" height="806" alt="" />
+<figcaption class="figcaption"><span class="author">Marta Requena Toulouse</span>. <span class="title"><em>Rúbrica de autoevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148383263-rh1omkgox","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Con esta rúbrica de autoevaluación pretendo que los alumnos reflexionen críticamente sobre su trabajo en la creación de música electrónica y montaje audiovisual, promoviendo así un aprendizaje autónomo y una mejora continua en sus habilidades técnicas y creativas. Esta información me va a permitir conocer la percepción que tienen los propios alumnos de su grado de conocimiento y detectar las dificultades que han tenido en este proceso para poder resolver las dudas o reforzar este tipo de tareas en el diseño de actividades posteriores. Espero una evaluación positiva en la mayoría de los casos.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1432px; text-align: center;\"><img src=\"{{context_path}}/content/resources/Tarea 8.1. Rúbrica de evaluación.png\" width=\"1432\" height=\"806\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Marta Requena Toulouse</span>. <span class=\"title\"><em>Rúbrica de autoevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c5-d2qmbkiaa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449c5-d2qmbkiaa</odePageId>
+      <odeBlockId>block-1778148858230-2teogd3p6</odeBlockId>
+      <blockName>Propuesta didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c5-d2qmbkiaa</odePageId>
+          <odeBlockId>block-1778148858230-2teogd3p6</odeBlockId>
+          <odeIdeviceId>idevice-1778148858222-do4e6kiy9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os comparto mediante este enlace la <a href="https://drive.google.com/file/d/1Gk9TGd4A0sU48NZ-8KYH_UD2f384eboZ/view?usp=sharing" target="_blank" title="" rel="noopener">guía didáctica</a> del proyecto. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778148858222-do4e6kiy9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os comparto mediante este enlace la <a href=\"https://drive.google.com/file/d/1Gk9TGd4A0sU48NZ-8KYH_UD2f384eboZ/view?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">guía didáctica</a> del proyecto. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp7449c6-cxh6czx3f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp7449c6-cxh6czx3f</odePageId>
+      <odeBlockId>block-1778149089098-pgdhcsujt</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp7449c6-cxh6czx3f</odePageId>
+          <odeBlockId>block-1778149089098-pgdhcsujt</odeBlockId>
+          <odeIdeviceId>idevice-1778149089097-pcbw4f50z</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA. Planta tu canción</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">SdA que plantea la elaboración de una canción electrónica utilizando como excusa los contenidos relativos al proceso de fotosíntesis de las plantas. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marta Requena Toulouse</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
